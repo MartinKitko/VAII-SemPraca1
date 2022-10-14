@@ -1,0 +1,21 @@
+body{
+    background: #333333;
+}
+
+.bg-gray {
+    background-color: #383838dc;
+}
+
+.nav-link {
+    color: white;
+}
+
+.row {
+    width: 100%;
+    padding: 30px;
+    text-align: justify;
+}
+
+.rd {
+    width: 100%;
+}
