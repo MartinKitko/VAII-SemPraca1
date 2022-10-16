@@ -32,7 +32,8 @@ body{
     justify-content: center;
 }
 
-.card{
+.card-s{
+    background-color: white;
     width: 230px;
     height: 210px;
     margin: 20px;
@@ -41,12 +42,12 @@ body{
     transition: all 300ms;
 }
 
-.card:hover{
+.card-s:hover{
     box-shadow: 5px 5px 15px grey;
     transform: scale(1.15);
 }
 
-.card img{
+.card-s img{
     max-width: 90%;
     max-height: 90%;
     position: absolute;
