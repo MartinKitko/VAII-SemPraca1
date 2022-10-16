@@ -1,5 +1,6 @@
 body{
     background: #333333;
+    overflow-x:hidden;
 }
 
 .bg-gray {
@@ -14,12 +15,21 @@ body{
     color: #777777;
 }
 
-.row {
-    padding: 30px;
+.padding-25 {
+    padding: 25px;
+}
+
+.padding-0 {
+    padding: 0;
 }
 
 .rd {
     width: 100%;
+}
+
+.hover-expand:hover {
+    transform: scale(1.01);
+    transition-duration: 350ms;
 }
 
 /* gallery images */
