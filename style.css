@@ -19,6 +19,10 @@ body{
     width: 45px;
 }
 
+.fs-c-18px {
+    font-size: 17px;
+}
+
 .hover-expand:hover {
     transform: scale(1.01);
     transition-duration: 350ms;
